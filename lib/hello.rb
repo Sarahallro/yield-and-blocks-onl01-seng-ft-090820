@@ -8,6 +8,6 @@ i = 0
   array
 end
 
-yielding
+print hello_t
 # call your method here!
 
